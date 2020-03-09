@@ -1,4 +1,4 @@
-package com.bitmovin.encoding.demo;
+package com.bitmovin.encoding.schedular;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
